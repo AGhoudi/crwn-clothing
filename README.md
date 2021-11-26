@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/143656431-35a5787d-4658-496e-adb1-8810df23c021.png" alt="crwn-clothing"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de créer un ecommerce de vêtements, en utilisant le framework react.</p>
 
 <h2 align=center>📝 Description :</h2>
 
