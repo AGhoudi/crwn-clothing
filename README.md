@@ -5,9 +5,8 @@
 <h2 align=center>📝 Description :</h2>
 
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
-J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
-Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du jeu est de retourner une paire de carte identique.</br>
-Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.</p>
+J'ai crée un jeu de memory game en HTML, CSS, JAVASCRIPT et React.</br>
+</p>
 
 <h2 align=center>👁️ Visuel :</h2>
 <div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
