@@ -9,11 +9,11 @@ J'ai crée un jeu de memory game en HTML, CSS, JAVASCRIPT et React.</br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/143657478-faef4154-0137-4b64-80fd-f909c178a2a8.png" alt="visuel de crw-clothing"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - Javascript - React - SASS - Firebase - Heroku</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
