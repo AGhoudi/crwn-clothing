@@ -17,6 +17,6 @@ J'ai crée un jeu de memory game en HTML, CSS, JAVASCRIPT et React.</br>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour voir le site:
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+  <a title="https://stark-fjord-91177.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://stark-fjord-91177.herokuapp.com/">https://stark-fjord-91177.herokuapp.com/</a></p>
